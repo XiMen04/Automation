@@ -1,2 +1,19 @@
-# Automation
-My research for automation
+# My Scripts
+
+个人自动化脚本与学习笔记。
+
+## 内容
+
+- 定时任务脚本
+- 服务器运维笔记
+- 一些折腾记录
+
+## 环境
+
+- Python 3.13
+- Linux / Docker
+
+## 说明
+
+仅作个人学习与备份使用。
+
